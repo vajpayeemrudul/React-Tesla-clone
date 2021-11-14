@@ -1,27 +1,6 @@
-
-## style
-1. I made a animation for down arrow using keyframes.
-    for 0,20 i have put translate 0 pixels but for 40% I have put 5 pixel with 3px at 60%. Again for 50% i have given 0 pixel translate, thus making it bounce up and down.
-
-2. overflow hidden makes the scroll bar to disappear.(be it x or y)
-
-3. We can flex the elements by media queries and diaplay flex.(not only material ui and bootstrap helps :))
-
-4. We can use dereferencing in styled components such as
-   background-image: ${props =>`url("/images/${props.bgImage}")`}  refer section.js for this.
-
-5. If you made position of particular element fixed in style. Then it remains at the same position of screen no mater where you scroll.( see style of header component )
-
-6. if you want to align something wrap it inside a component or div.
-
-7. NOTE: if you want a div over another div then the div which you want over should be wrapped under the below wala div. then give z-index 1 to below wala div and 16 to upper wala div.
-
-8. when you display flex it is default row direction. if you want in column(do flex-direction: column). it might be needed when you make side bar;
-
-9. If you want to align something first wrap it ;)
-
-10. If you wnat to use your useState variable from the function you defined(eg. in custom div styles) you have to pass it. now to you can access this variable as props outside the function(see burgerMenu);
-
+# React Tesla-CLone
+  It is under development tesla web app clone. It uses react hooks to make different components required in the project. 
+### Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 
 ## React description
