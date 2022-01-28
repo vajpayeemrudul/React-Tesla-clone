@@ -1,5 +1,8 @@
+
 # React Tesla-CLone
   It is under development tesla web app clone. It uses react hooks to make different components required in the project. 
+![alt](https://github.com/vajpayeemrudul/React-Tesla-clone/blob/master/public/images/mru3.png?raw=true)
+
 ### Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 
